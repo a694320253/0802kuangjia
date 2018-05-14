@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Star</string>
+
+    <!--BottomNavigation title-->
+    <string name="title_homePage">首页</string>
+    <string name="title_category">分类</string>
+    <string name="title_mine">我的</string>
+    <string name="title_notification">消息</string>
+    <string name="title_topic_detail">文章详情</string>
+    <string name="title_topic_create">创建帖子</string>
+    <string name="title_reply_create">创建评论</string>
+    <string name="title_notification_center">消息中心</string>
+    <string name="title_login">登录</string>
+    <string name="token_message">用户登录后，在设置页面可以看到自己的 accessToken。 建议各移动端应用使用手机扫码的形式获得 Token 登录</string>
+    <string name="title_qr">扫码</string>
+
+    <string name="create_topic">新建话题</string>
+    <string name="last_reply">最后回复: %s</string>
+    <string name="collect">收藏</string>
+    <string name="unCollect">取消收藏</string>
+    <string name="visit_count">浏览次数: %d</string>
+    <string name="tab_name">来自版块: %s</string>
+    <string name="reply_count">回复 %d 条 上拉查看更多</string>
+    <string name="user_score">积分: %d</string>
+    <string name="register_time">社龄: %s</string>
+    <string name="github_name">GitHub: %s</string>
+
+    <string name="empty_topics">还没有文章呢!</string>
+    <string name="empty_comments">文章还没有评论呢，板凳是你的!</string>
+    <string name="all_photo">所有图片</string>
+    <string name="ok">确定</string>
+    <string name="preview">预览</string>
+    <string name="uploading_progress">正在上传: %d/100</string>
+
+    <string name="toast_create_topic_success">创建帖子成功!</string>
+
+    <string name="menu_check_image">选择照片</string>
+    <string name="confirm">好的</string>
+    <string name="title_dialog_hint">提示</string>
+    <string name="cancel_select_photo_hint">用户取消了选择照片。</string>
+    <string name="none_photo">请点击右上角选择照骗</string>
+    <string name="select_photo">请选择要上传的图片</string>
+
+
+    <string name="gotoMainActivty">跳转MainActivity</string>
+    <string name="skip">跳转</string>
+    <string name="gotoexit">再按一次退出程序</string>
+</resources>
